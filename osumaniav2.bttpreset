@@ -1,0 +1,41 @@
+{
+  "BTTPresetCreatorNotes" : "",
+  "BTTPresetInfoURL" : "",
+  "BTTPresetName" : "osutaiko",
+  "BTTPresetColor" : "150.450000, 35.706800, 18.054000, 255.000000",
+  "BTTPresetUUID" : "6B2E077D-27EC-4704-93E1-2C66121CA75A",
+  "BTTPresetContent" : [
+    {
+      "BTTAppBundleIdentifier" : "sh.ppy.osu.lazer",
+      "BTTAppName" : "osu!",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTAppProcessMatchMode" : 2,
+      "BTTAppProcessName" : "osu!",
+      "BTTAppSpecificSettings" : {
+        "BTTDisableClipboardManager" : 1
+      },
+      "BTTTriggers" : [
+
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "BT.G",
+      "BTTAppName" : "Global",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+
+      ]
+    },
+    {
+      "BTTAppBundleIdentifier" : "com.apple.finder",
+      "BTTAppName" : "Finder",
+      "BTTAppAutoInvertIcon" : 1,
+      "BTTTriggers" : [
+
+      ]
+    }
+  ],
+  "BTTPresetSnapAreas" : [
+
+  ]
+}
